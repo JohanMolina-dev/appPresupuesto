@@ -1,0 +1,15 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background: #134E5E;  /* fallback for old browsers */
+    background-image: url(assets/monedas.jpg);
+}
+
+.fontTitle {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-transform: uppercase;
+}
+
+.textError {
+    font-size: 1rem;
+}
